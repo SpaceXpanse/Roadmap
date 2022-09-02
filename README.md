@@ -6,14 +6,14 @@
 ☑ Making a website to present the coin  
 ☑ Adding the project on some pools  
 ☑ An exchange listing to gain attention and volume  
-☐ Writing a manifesto to explain the intentions further and to set the goals of the platform  
+☑ Writing a manifesto to explain the intentions further and to set the goals of the platform  
 ☐ Making a website for the platform  
   
 ## 2022 Q3  
 ☐ Writing Whitepaper to explain the platform deeper  
 ☐ Writing Yellowpaper with technical information to explain it in details  
 ☐ Putting online Minimum Viable Product /MVP/ to visualize the ideas  
-☐ Starting a marketing campaign to promote the projects further  
+☑ Starting a marketing campaign to promote the projects further  
 ☐ Adding Docker files to the source to make starting nodes in containers possible  
   
 ## 2022 Q4  
