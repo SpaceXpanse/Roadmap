@@ -35,4 +35,9 @@
 ☐ Official launch of the projects  
   
 ## 2023 Q3  
-☐ Other /TBA/  
+☐ ROD Blockchain Decentralized DNS Release
+☐ ROD Blockchain IPFS Implementation
+
+## 2023 Q4  
+☐ Open Beta version of SpaceXpanse: Wanderers
+
