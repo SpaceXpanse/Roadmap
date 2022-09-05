@@ -12,11 +12,11 @@
 ☐ Making a website for the platform and the game
 ☐ Writing Whitepaper to explain the platform deeper  
 ☐ Putting online Minimum Viable Product /MVP/ to visualize the ideas  
-☑ Starting a marketing campaign to promote the projects further
-☐ SpaceXpanse ID Release
-☐ SpaceXpanse Interface Layer Release
-☐ SpaceXpanse Programming Library Release
-☐ Complete the initial project's documentation
+☑ Starting a marketing campaign to promote the projects further  
+☐ SpaceXpanse ID Release  
+☐ SpaceXpanse Interface Layer Release   
+☐ SpaceXpanse Programming Library Release  
+☐ Complete the initial project's documentation  
   
 ## 2022 Q4
 ☐ Writing Yellowpaper with technical information to explain it in details 
