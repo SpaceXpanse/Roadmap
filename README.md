@@ -6,28 +6,33 @@
 ☑ Making a website to present the coin  
 ☑ Adding the project on some pools  
 ☑ An exchange listing to gain attention and volume  
-☑ Writing a manifesto to explain the intentions further and to set the goals of the platform  
-☐ Making a website for the platform  
+☑ Writing a manifesto to explain the intentions further and to set the goals of the platform   
   
-## 2022 Q3  
+## 2022 Q3
+☐ Making a website for the platform and the game
 ☐ Writing Whitepaper to explain the platform deeper  
-☐ Writing Yellowpaper with technical information to explain it in details  
 ☐ Putting online Minimum Viable Product /MVP/ to visualize the ideas  
-☑ Starting a marketing campaign to promote the projects further  
-☐ Adding Docker files to the source to make starting nodes in containers possible  
+☑ Starting a marketing campaign to promote the projects further
+☐ SpaceXpanse ID Release
+☐ SpaceXpanse Interface Layer Release
+☐ SpaceXpanse Programming Library Release
+☐ Complete the initial project's documentation
   
-## 2022 Q4  
-☐ Closed alpha version of the projects  
-☐ Continuous deployment  
+## 2022 Q4
+☐ Writing Yellowpaper with technical information to explain it in details 
+☐ Adding Docker files to the source to make starting nodes in containers possible
+☐ Alpha version of SpaceXpanse: Sol
+☐ Closed alpha version of the SpaceXpanse: Wanderers
   
-## 2023 Q1  
-☐ Open beta version of the projects  
+## 2023 Q1
 ☐ Consulting with an attorney office with experience in Crypto  
+☐ Alpha version of Decentralized Social Network /dSN/
+☐ Mobile wallet  
   
-## 2023 Q2  
+## 2023 Q2 
+☐ Beta version of SpaceXpanse: Sol 
 ☐ Source code audit by a third-party entity  
 ☐ Official launch of the projects  
   
 ## 2023 Q3  
-☐ Mobile apps  
 ☐ Other /TBA/  
