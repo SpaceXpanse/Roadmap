@@ -46,4 +46,4 @@ As we promised in the [whitepaper](https://github.com/SpaceXpanse/Whitepaper), t
 ☐ Other /TBA/
 
 ----
-*And if you want to see more thorough description and and exact timetable of the tasks in question, visit [Roadmap project](https://github.com/orgs/SpaceXpanse/projects/28))*.
+*And if you want to see more thorough description and and exact timetable of the tasks in question, visit [roadmap's tasks](https://github.com/orgs/SpaceXpanse/projects/28))*.
