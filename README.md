@@ -54,4 +54,4 @@ To make the development more quick and effective we'll develop the **SpaceXpanse
 ☐ Other /TBA/
 -->
 ----
-*And if you want to see more thorough description and and exact timetable of the tasks in question, visit [roadmap's tasks](https://github.com/orgs/SpaceXpanse/projects/28))*.
+*And if you want to see more thorough description and and exact timetable of the tasks in question, visit [roadmap's tasks](https://github.com/orgs/SpaceXpanse/projects/28)*.
