@@ -10,7 +10,7 @@ To make the development more quick and effective we'll develop the **SpaceXpanse
 ☑ Adding the project on some pools  
 ☑ An exchange listing to gain attention and volume  
 ☑ Writing a manifesto to explain the intentions further and to set the goals of the platform   
-   
+<!--   
 ## 2022 Q3  
 ☑ Making a website for the platform and the game  
 ☑ Writing Whitepaper to explain the platform deeper  
@@ -25,7 +25,7 @@ To make the development more quick and effective we'll develop the **SpaceXpanse
 ☐ Adding Docker files to the source to make starting nodes in containers possible  
 ☑ Pre-alpha version of SpaceXpanse Metaverse Simulator  
 ☐ Closed alpha version of the SpaceXpanse: Wanderers  
-<!--    
+   
 ## 2023 Q1  
 ☐ Consulting with an attorney office with experience in Crypto    
 ☐ Mobile wallet    
