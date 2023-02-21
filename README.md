@@ -18,7 +18,7 @@ In the third and final stage, the project should be opened up to a wider communi
 Overall, developing these projects involves starting small with a dedicated team, scaling up the development process by involving more people, and going big by opening up the projects to a wider community. 
 
 ## The iterations
-We have to be sure that the projects continue to evolve and improve over time. Here is an overview of how we will develop these projects on quarterly iterations for a four-year period.
+We have to be sure that the projects continue to evolve and improve over time. Here is an overview of how we will develop these projects on quarterly iterations for a *four-year* period.
 
 **Year 1: Establish the project's vision and goals**  
 During the first year, it's important to establish the projects' vision and goals. This involves defining the projects' purpose, identifying its target audience, and establishing a roadmap of features and milestones. By the end of the first year, the projects should have a clear direction and a roadmap that outlines the key goals for the next three years.
