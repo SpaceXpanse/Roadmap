@@ -1,8 +1,21 @@
-# Roadmap  /WIP/
+# Roadmap objectives /WIP/
 As we promised in the [whitepaper](https://github.com/SpaceXpanse/Whitepaper), the **SpaceXpanse Multiverse** platform development will be carefully structured and will gradually broaden the scope of its tasks in a span of four years to avoid any roadblocks on its path. To achieve this we'll use two key parts of project management together - *milestones and iterations*. The milestones and iterations are two critical components of project's roadmap that play significant roles in managing the development process successfully. **Milestones** are the checkpoints in the project's plan that help track the progress and provide a framework to achieve the project's goals. On the other hand, **iterations** are the incremental steps that the project's team takes to achieve the milestones. Each iteration represents a set of tasks or features that are added to the project until the final goal is achieved.  All of them and how they fit together can be seen at [roadmap's tasks](https://github.com/orgs/SpaceXpanse/projects/28).
 
 To make the development more quick and effective we'll develop the **SpaceXpanse Multiverse** platform and **SpaceXpanse: Wanderers** game together. The open-source nature of the former and the closed-source nature of the latter will enable these two projects to support and push each other further, so it's essential to establish clear communication between the teams and ensure compatibility between the projects. This will be achieved by using the full potential of all Github features - Teams, Projects, Actions, etc. And by sharing code and leveraging the projects' strengths, these two can accompany each other to accelerate development and improve the quality of the end product. The outcome will be a more effective and efficient development process that delivers better results.
-  
+
+Developing these two projects with a growing team can be challenging, but it is achievable by breaking the process down into three stages. Here is an overview of how to develop these projects on three stages/milestones/, gradually broadening the number of people involved.  
+
+Stage 1: Starting small  
+The first stage of the development process involves starting small with a small team of dedicated developers. This team should be responsible for setting project goals, establishing coding standards, and building a foundation for the project. The team should be skilled in the necessary technologies and should have a clear understanding of the project's requirements. At this stage, communication between the team members should be open and frequent.
+
+Stage 2: Scaling up  
+Once the project's foundation is established, the second stage involves scaling up the development process by involving more people in the project. This may involve opening up the project to other developers who are interested in contributing, such as by creating a public repository on a platform like GitHub. At this stage, it's important to ensure that there are clear guidelines for contributing, such as coding standards, code review processes, and documentation requirements.
+
+Stage 3: Going big  
+In the third and final stage, the project should be opened up to a wider community of developers and users. This can be achieved by promoting the project on social media, reaching out to relevant communities, and hosting events or hackathons. At this stage, it's important to ensure that the project has a clear purpose and value proposition, and that contributors and users are engaged and motivated to participate in the development process.
+
+Overall, developing open-source projects on three stages involves starting small with a dedicated team, scaling up the development process by involving more people, and going big by opening up the project to a wider community. 
+
 ## 2022 Q2  
 ☑ New wallets has to be compiled with the necessary changes  
 ☑ Putting online an explorer, a dns seeder and nodes to support the blockchain  
