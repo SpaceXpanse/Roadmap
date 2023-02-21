@@ -31,7 +31,7 @@ Throughout the four-year period, the team should prioritize regular code reviews
 
 Overall, developing these projects on quarterly iterations for a four-year period requires careful planning, execution, and regular review. By following this approach, it's possible to ensure that the projects evolve in line with user needs and remains relevant over time.
 
-## 2022 Q2  
+## 2022 Q1-Q4  
 ☑ New wallets has to be compiled with the necessary changes  
 ☑ Putting online an explorer, a dns seeder and nodes to support the blockchain  
 ☑ Making a website to present the coin  
