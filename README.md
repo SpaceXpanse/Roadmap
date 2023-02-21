@@ -20,10 +20,10 @@ Overall, developing these projects involves starting small with a dedicated team
 ## The iterations
 We have to be sure that the projects continue to evolve and improve over time on quarterly iterations for a four-year period. Here is an overview of how we will develop these projects on quarterly iterations for a four-year period.
 
-**Year 1: Establish the project's vision and goals**
+**Year 1: Establish the project's vision and goals**  
 During the first year, it's important to establish the projects' vision and goals. This involves defining the projects' purpose, identifying its target audience, and establishing a roadmap of features and milestones. By the end of the first year, the projects should have a clear direction and a roadmap that outlines the key goals for the next three years.
 
-**Years 2-4: Execute quarterly iterations**
+**Years 2-4: Execute quarterly iterations**  
 During years two to four, these projects should focus on executing quarterly iterations. Each iteration should have a specific set of goals that are aligned with the projects' overall roadmap. The goals for each iteration should be specific, measurable, achievable, relevant, and time-bound (SMART). It's important to regularly review the progress of each iteration and adjust the projects' roadmap as necessary.
 
 At the end of each quarter, the team should review the progress made during the iteration and assess the success of the goals. This should involve gathering feedback from users and developers, as well as analyzing data on the projects' performance. Based on this feedback, the team should prioritize the features and improvements that are needed for the next iteration.
