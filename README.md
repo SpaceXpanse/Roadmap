@@ -18,18 +18,18 @@ In the third and final stage, the project should be opened up to a wider communi
 Overall, developing these projects involves starting small with a dedicated team, scaling up the development process by involving more people, and going big by opening up the projects to a wider community. 
 
 ## The iterations
-We have to be sure that the projects continue to evolve and improve over time on quarterly iterations for a five-year period. Here is an overview of how we will develop these projects on quarterly iterations for a four-year period.
+We have to be sure that the projects continue to evolve and improve over time on quarterly iterations for a four-year period. Here is an overview of how we will develop these projects on quarterly iterations for a four-year period.
 
 **Year 1: Establish the project's vision and goals**  
 During the first year, it's important to establish the projects' vision and goals. This involves defining the projects' purpose, identifying its target audience, and establishing a roadmap of features and milestones. By the end of the first year, the projects should have a clear direction and a roadmap that outlines the key goals for the next three years.
 
 **Years 2-5: Execute quarterly iterations**  
-During years two to five, these projects should focus on executing quarterly iterations. Each iteration should have a specific set of goals that are aligned with the projects' overall roadmap. The goals for each iteration should be specific, measurable, achievable, relevant, and time-bound /SMART/. It's important to regularly review the progress of each iteration and adjust the projects' roadmap as necessary.  
+During years two to four, these projects should focus on executing quarterly iterations. Each iteration should have a specific set of goals that are aligned with the projects' overall roadmap. The goals for each iteration should be specific, measurable, achievable, relevant, and time-bound /SMART/. It's important to regularly review the progress of each iteration and adjust the projects' roadmap as necessary.  
 At the end of each quarter, the team should review the progress made during the iteration and assess the success of the goals. This should involve gathering feedback from users and developers, as well as analyzing data on the projects' performance. Based on this feedback, the team should prioritize the features and improvements that are needed for the next iteration.
 
-Throughout the five-year period, the team should prioritize regular code reviews, testing, and documentation to ensure that these projects remains stable, secure, and easy to use. Additionally, the team should engage with the projects' community, such as by hosting events, contributing to relevant forums, and creating user-friendly documentation.
+Throughout the four-year period, the team should prioritize regular code reviews, testing, and documentation to ensure that these projects remains stable, secure, and easy to use. Additionally, the team should engage with the projects' community, such as by hosting events, contributing to relevant forums, and creating user-friendly documentation.
 
-Overall, developing these projects on quarterly iterations for a five-year period requires careful planning, execution, and regular review. By following this approach, it's possible to ensure that the projects evolve in line with user needs and remains relevant over time.
+Overall, developing these projects on quarterly iterations for a four-year period requires careful planning, execution, and regular review. By following this approach, it's possible to ensure that the projects evolve in line with user needs and remains relevant over time.
 
 ## 2022 Q2  
 ☑ New wallets has to be compiled with the necessary changes  
