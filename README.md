@@ -38,8 +38,8 @@ Overall, developing these projects on quarterly iterations for a four-year perio
 ☑ Adding the project on some pools  
 ☑ An exchange listing to gain attention and volume  
 ☑ Writing a manifesto to explain the intentions further and to set the goals of the platform   
-<!--   
-## 2022 Q3  
+  
+## 2023 Q1  
 ☑ Making a website for the platform and the game  
 ☑ Writing Whitepaper to explain the platform deeper  
 ☐ Putting online Minimum Viable Product /MVP/ to visualize the ideas    
@@ -48,38 +48,47 @@ Overall, developing these projects on quarterly iterations for a four-year perio
 ☐ SpaceXpanse Interface Layer Release         
 ☐ Complete the initial project's documentation    
     
-## 2022 Q4  
+## 2023 Q2 
 ☐ Writing Yellowpaper with technical information to explain it in details   
 ☐ Adding Docker files to the source to make starting nodes in containers possible  
 ☑ Pre-alpha version of SpaceXpanse Metaverse Simulator  
 ☐ Closed alpha version of the SpaceXpanse: Wanderers  
    
-## 2023 Q1  
+## 2023 Q3
 ☐ Consulting with an attorney office with experience in Crypto    
 ☐ Mobile wallet    
     
-## 2023 Q2   
+## 2023 Q4 
 ☐ Beta version of SpaceXpanse Metaverse Simulator   
 ☐ Source code audit by a third-party entity    
 ☐ Official launch of the projects    
     
-## 2023 Q3    
+## 2024 Q1    
 ☐ Blockchain Decentralized DNS Release  
   
-## 2023 Q4    
+## 2024 Q2  
 ☐ Open Beta version of SpaceXpanse: Wanderers  
 
-## 2024 Q1    
+## 2024 Q3  
 ☐ Other /TBA/
 
-## 2024 Q2    
+## 2024 Q4  
 ☐ Other /TBA/
 
-## 2024 Q3    
+## 2025 Q1    
 ☐ Other /TBA/
 
-## 2024 Q4    
+## 2025 Q2    
 ☐ Other /TBA/
--->
+
+## 2025 Q3    
+☐ Other /TBA/
+
+## 2025 Q4    
+☐ Other /TBA/
+
+## 2026    
+☐ Other /TBA/
+
 ----
 *And if you want to see more thorough description and and exact timetable of the tasks in question, visit [roadmap's tasks](https://github.com/orgs/SpaceXpanse/projects/28)*.
