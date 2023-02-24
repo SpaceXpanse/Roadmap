@@ -44,25 +44,28 @@ Overall, developing these projects on quarterly iterations for a four-year perio
 ☑ Pre-alpha version of SpaceXpanse Metaverse Simulator 
   
 ## 2023 Q1  
-☐ Putting online Minimum Viable Product /MVP/ to visualize the ideas       
-☐ SpaceXpanse ID Release    
-☐ SpaceXpanse Interface Layer Release         
+☐ SpaceXpanse Programming Library /libspex/ Release
+☐ Putting online Minimum Viable Product /MVP/ to visualize the idea  
+☐ New ROD coin explorer with API  
+☐ Major SpaceXpanse Metaverse Simulator expansion pack  
+☐ First major marketing campaign to promote the projects further     
 ☐ Complete the initial project's documentation    
     
-## 2023 Q2 
-☐ Writing Yellowpaper with technical information to explain it in details   
-☐ Adding Docker files to the source to make starting nodes in containers possible  
-☑ Pre-alpha version of SpaceXpanse Metaverse Simulator  
-☐ Closed alpha version of the SpaceXpanse: Wanderers  
+## 2023 Q2  
+☐ Alpha version of SpaceXpanse Metaverse Simulator  
+☐ SpaceXpanse Digital Identification /SpeXID/ Release  
+☐ Listing ROD at some major exchange/s  
    
 ## 2023 Q3
+☐ Writing Yellowpaper with technical information to explain it in details  
+☐ Mobile wallet  
 ☐ Consulting with an attorney office with experience in Crypto    
-☐ Mobile wallet    
     
-## 2023 Q4 
-☐ Beta version of SpaceXpanse Metaverse Simulator   
-☐ Source code audit by a third-party entity    
-☐ Official launch of the projects    
+## 2023 Q4
+
+☐ Closed Alpha version of SpaceXpanse: Wanderers
+☐ Registering a non-profit entity  
+☐ Second major marketing campaign to promote the projects further 
     
 ## 2024 Q1    
 ☐ Blockchain Decentralized DNS Release  
