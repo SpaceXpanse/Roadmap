@@ -44,7 +44,7 @@ Overall, developing these projects on quarterly iterations for a four-year perio
 ☑ Pre-alpha version of SpaceXpanse Metaverse Simulator 
   
 ## 2023 Q1  
-☐ SpaceXpanse Programming Library /libspex/ Release
+☐ SpaceXpanse Programming Library /libspex/ Release  
 ☐ Putting online Minimum Viable Product /MVP/ to visualize the idea  
 ☐ New ROD coin explorer with API  
 ☐ Major SpaceXpanse Metaverse Simulator expansion pack  
@@ -62,34 +62,37 @@ Overall, developing these projects on quarterly iterations for a four-year perio
 ☐ Consulting with an attorney office with experience in Crypto    
     
 ## 2023 Q4
-
-☐ Closed Alpha version of SpaceXpanse: Wanderers
 ☐ Registering a non-profit entity  
-☐ Second major marketing campaign to promote the projects further 
+☐ Closed Alpha version of SpaceXpanse: Wanderers  
     
 ## 2024 Q1    
-☐ Blockchain Decentralized DNS Release  
+☐ Decentralized DNS Release  
+☐ Second major marketing campaign to promote the projects further  
   
 ## 2024 Q2  
-☐ Open Beta version of SpaceXpanse: Wanderers  
+☐ Decentralized Proof of Stake aka DPoS masternodes  
+☐ Decentralized database management system /SpeXQL/ Release  
 
 ## 2024 Q3  
-☐ Other /TBA/
+☐ Alpha version of Decentralized Social Network /Metalog/  
+☐ Source code audit by a third-party entity  
 
 ## 2024 Q4  
-☐ Other /TBA/
+☐ Registering a for-profit entity  
+☐ Beta version of the SpaceXpanse Metaverse Simulator  
+☐ Third major marketing campaign to promote the projects further  
 
 ## 2025 Q1    
-☐ Other /TBA/
+☐ Open Beta version of SpaceXpanse: Wanderers  
 
 ## 2025 Q2    
-☐ Other /TBA/
+☐ Alpha Version of Decentralized Autonomous Organisation /SpeXDAO/  
 
 ## 2025 Q3    
-☐ Other /TBA/
+☐ Beta version of Decentralized Social Network /Metalog/  
 
 ## 2025 Q4    
-☐ Other /TBA/
+☐ Beta version of Decentralized Autonomous Organisation /SpeXDAO/  
 
 ## 2026    
 ☐ Other /TBA/
