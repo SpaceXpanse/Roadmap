@@ -38,12 +38,13 @@ Overall, developing these projects on quarterly iterations for a four-year perio
 ☑ Adding the project on some pools  
 ☑ An exchange listing to gain attention and volume  
 ☑ Writing a manifesto to explain the intentions further and to set the goals of the platform   
-  
-## 2023 Q1  
 ☑ Making a website for the platform and the game  
 ☑ Writing Whitepaper to explain the platform deeper  
-☐ Putting online Minimum Viable Product /MVP/ to visualize the ideas    
-☑ Starting a marketing campaign to promote the projects further    
+☑ Starting a marketing campaign to promote the projects further  
+☑ Pre-alpha version of SpaceXpanse Metaverse Simulator 
+  
+## 2023 Q1  
+☐ Putting online Minimum Viable Product /MVP/ to visualize the ideas       
 ☐ SpaceXpanse ID Release    
 ☐ SpaceXpanse Interface Layer Release         
 ☐ Complete the initial project's documentation    
