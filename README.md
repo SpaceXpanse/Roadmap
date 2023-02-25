@@ -98,4 +98,5 @@ Overall, developing these projects on quarterly iterations for a four-year perio
 ☐ Other /TBA/
 
 ----
-*And if you want to see more thorough description and and exact timetable of the tasks in question, visit [roadmap's tasks](https://github.com/orgs/SpaceXpanse/projects/28)*.
+*And if you want to see more thorough description and and exact timetable of the tasks in question, visit [roadmap planning and progress](https://github.com/orgs/SpaceXpanse/projects/28)*.
+**This document is a work in progress and is subject to change.
