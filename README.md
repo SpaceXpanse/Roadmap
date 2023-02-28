@@ -58,7 +58,7 @@ Overall, developing these projects on quarterly iterations for a four-year perio
    
 ## 2023 Q3
 ☐ Writing Yellowpaper with technical information to explain it in details  
-☐ Mobile wallet  
+☐ Mobile wallets  
 ☐ Consulting with an attorney office with experience in Crypto    
     
 ## 2023 Q4
