@@ -44,15 +44,15 @@ Overall, developing these projects on quarterly iterations for a four-year perio
 ☑ Pre-alpha version of SpaceXpanse Metaverse Simulator 
   
 ## 2023 Q1  
-☐ SpaceXpanse Programming Library /libspex/ Release  
+☑ SpaceXpanse Programming Library /libspex/ Release  
 ☐ Putting online Minimum Viable Product /MVP/ to visualize the idea  
 ☐ New ROD coin explorer with API  
-☐ Major SpaceXpanse Metaverse Simulator expansion pack  
-☐ First major marketing campaign to promote the projects further     
-☐ Complete the initial project's documentation    
+☑ Major SpaceXpanse Metaverse Simulator expansion pack  
+☑ First major marketing campaign to promote the projects further     
+☑ Complete the initial project's documentation    
     
 ## 2023 Q2  
-☐ Alpha version of SpaceXpanse Metaverse Simulator  
+☑ Alpha version of SpaceXpanse Metaverse Simulator  
 ☐ SpaceXpanse Digital Identification /SpeXID/ Release  
 ☐ Listing ROD at some major exchange/s  
    
@@ -62,7 +62,7 @@ Overall, developing these projects on quarterly iterations for a four-year perio
 ☐ Consulting with an attorney office with experience in Crypto    
     
 ## 2023 Q4
-☐ Registering a non-profit entity  
+☑ Registering a non-profit entity  
 ☐ Closed Alpha version of SpaceXpanse: Wanderers  
     
 ## 2024 Q1    
