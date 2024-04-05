@@ -36,7 +36,7 @@ Overall, developing these projects on quarterly iterations for a four-year perio
 ☑ New wallets has to be compiled with the necessary changes  
 ☑ Putting online an explorer, a dns seeder and nodes to support the blockchain  
 ☑ Making a website to present the coin  
-☑ Adding the project on some minimng pools  
+☑ Adding the project on some mining pools  
 ☑ List ROD on crypto exchange/s/ to gain attention and volume  
 ☑ Write a manifesto to explain the intentions and set the goals of the platform   
 ☑ Making a website for the platform and the game  
