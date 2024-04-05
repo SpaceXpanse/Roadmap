@@ -78,7 +78,7 @@ Overall, developing these projects on quarterly iterations for a four-year perio
 
 ### 2024 Q3  
 ☐ SpaceXpanse ROD halving around 4th of July 2024  
-☐ Alpha version of SpaceXpanse Decentralized DNS /dDNS/ feature
+☐ Alpha version of SpaceXpanse Decentralized DNS /dDNS/ feature  
 ☐ Alpha version of ROD-to-Nostr framework  
 ☐ Alpha version of RODPay server  
 ☐ Alpha version of Metalog - Decentralized Social Network  
@@ -89,34 +89,35 @@ Overall, developing these projects on quarterly iterations for a four-year perio
 ### 2024 Q4  
 ☐ Third major marketing campaign to promote the projects further  
 ☐ Consulting with an attorney office with experience in crypto space  
-☐ Registering a for-profit entity
-☐ Next major update of the ROD Core wallet  
+☐ Registering a for-profit entity  
+☐ New major update of the ROD Core wallet  
+☐ New release of SpaceXpanse Programming Library /libspex/  
 ☐ Alpha version of Democrit - Trustless Marketplace Framework  
 ☐ Alpha version of SpaceXpanse DappEngine  
-☐ Alpha version of SpaceXpanse: Battleships  
-☐ SpaceXpanse Startup Hub - the startup ecosystem around our platform   
+☐ Alpha version of SpaceXpanse: Battleships   
 
 ### 2025 Q1    
 ☐ Beta version of SpaceXpanse Decentralized DNS /dDNS/ feature  
-☐ Beta version of Democrit - Trustless Marketplace Framework  
-☐ Beta version of SpaceXpanse DappEngine  
-
-### 2025 Q2    
-☐ Beta version of SpaceXpanse: Battleships
-☐ Closed alpha version of SpaceXpanse: Wanderers    
-
-### 2025 Q3    
-☐ SpaceXpanse ROD halving around 4th of July 2025  
 ☐ Beta version of SpaceXpanse Digital Identification /SpeXID/  
 ☐ Beta version of ROD-to-Nostr framework  
 ☐ Beta version of Metalog - Decentralized Social Network  
 ☐ Beta version of the SpaceXpanse Metaverse Simulator  
 ☐ Beta version of SpaceXpanse: Metaverse  
 
-### 2025 Q4    
-☐ Open beta version of SpaceXpanse: Wanderers
-☐ Integration tools for interconnection with other blockchains /TBD/  
+### 2025 Q2
+☐ SpaceXpanse Startup Hub - the startup ecosystem around our platform  
+☐ Closed alpha version of SpaceXpanse: Wanderers  
+
+### 2025 Q3    
+☐ SpaceXpanse ROD halving around 4th of July 2025  
+☐ Beta version of Democrit - Trustless Marketplace Framework  
+☐ Beta version of SpaceXpanse DappEngine  
+☐ Beta version of SpaceXpanse: Battleships  
+
+### 2025 Q4   
 ☐ Fourth major marketing campaign to promote our platform in full  
+☐ Open beta version of SpaceXpanse: Wanderers  
+☐ Integration tools for interconnection with other blockchains /TBD/  
 
 ### 2026    
 ☐ Source code audit by a third-party entity
