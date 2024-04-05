@@ -31,71 +31,95 @@ Throughout the four-year period, the team should prioritize regular code reviews
 
 Overall, developing these projects on quarterly iterations for a four-year period requires careful planning, execution, and regular review. By following this approach, it's possible to ensure that the projects evolve in line with user needs and remains relevant over time.
 
-## 2022 Q1-Q4  
+## Stage 1
+### 2022 Q1-Q4  
 ☑ New wallets has to be compiled with the necessary changes  
 ☑ Putting online an explorer, a dns seeder and nodes to support the blockchain  
 ☑ Making a website to present the coin  
-☑ Adding the project on some pools  
-☑ An exchange listing to gain attention and volume  
-☑ Writing a manifesto to explain the intentions further and to set the goals of the platform   
+☑ Adding the project on some minimng pools  
+☑ List ROD on crypto exchange/s/ to gain attention and volume  
+☑ Write a manifesto to explain the intentions and set the goals of the platform   
 ☑ Making a website for the platform and the game  
 ☑ Writing Whitepaper to explain the platform deeper  
 ☑ Starting a marketing campaign to promote the projects further  
 ☑ Pre-alpha version of SpaceXpanse Metaverse Simulator 
   
-## 2023 Q1  
+### 2023 Q1  
+☑ Complete the initial project's documentation  
 ☑ SpaceXpanse Programming Library /libspex/ Release  
-☐ Putting online Minimum Viable Product /MVP/ to visualize the idea  
-☐ New ROD coin explorer with API  
-☑ Major SpaceXpanse Metaverse Simulator expansion pack  
-☑ First major marketing campaign to promote the projects further     
-☑ Complete the initial project's documentation    
+☑ First major marketing campaign to promote the projects further    
     
-## 2023 Q2  
-☑ Alpha version of SpaceXpanse Metaverse Simulator  
-☐ SpaceXpanse Digital Identification /SpeXID/ Release  
-☐ Listing ROD at some major exchange/s  
+### 2023 Q2  
+☑ Alpha version of SpaceXpanse Metaverse Simulator
    
-## 2023 Q3
-☐ Writing Yellowpaper with technical information to explain it in details  
-☐ Mobile wallets  
-☐ Consulting with an attorney office with experience in Crypto    
+### 2023 Q3
+☑ Putting online Minimum Viable Product /MVP/ to visualize the idea  
+☑ Major SpaceXpanse Metaverse Simulator expansion pack  
     
-## 2023 Q4
+## Stage 2
+### 2023 Q4
 ☑ Registering a non-profit entity  
-☐ Closed Alpha version of SpaceXpanse: Wanderers  
+☑ Second major marketing campaign to promote the projects further  
     
-## 2024 Q1    
-☐ Decentralized DNS Release  
-☐ Second major marketing campaign to promote the projects further  
+### 2024 Q1    
+☑ Reorganization, planning and researching  
   
-## 2024 Q2  
-☐ Decentralized Proof of Stake aka DPoS masternodes  
-☐ Decentralized database management system /SpeXQL/ Release  
+### 2024 Q2  
+☐ New minor version of ROD Core wallet  
+☐ Initial version of ROD Electrum wallet  
+☐ Initial version of ROD API server  
+☐ ROD mobile wallet  
+☐ ROD RPC explorer - new version with API  
+☐ New version of D.A.R.M.A. - AI chatbot to help users delve into our platform  
+☐ Prepare all nesessary documents to pitch the potential investors  
+☐ Alpha version of SpaceXpanse Digital Identification /SpeXID/  
+☐ New minor version of SpaceXpanse Metaverse Simulator  
+☐ Alpha version of SpaceXpanse: Metaverse  
 
-## 2024 Q3  
-☐ Alpha version of Decentralized Social Network /Metalog/  
-☐ Source code audit by a third-party entity  
+### 2024 Q3  
+☐ SpaceXpanse ROD halving around 4th of July 2024  
+☐ Alpha version of SpaceXpanse Decentralized DNS /dDNS/ feature
+☐ Alpha version of ROD-to-Nostr framework  
+☐ Alpha version of RODPay server  
+☐ Alpha version of Metalog - Decentralized Social Network  
+☐ Release a Yellowpaper of the SpaceXpanse Multiverse platform  
+☐ Listing ROD at some major exchange/s  
 
-## 2024 Q4  
-☐ Registering a for-profit entity  
-☐ Beta version of the SpaceXpanse Metaverse Simulator  
+## Stage 3
+### 2024 Q4  
 ☐ Third major marketing campaign to promote the projects further  
+☐ Consulting with an attorney office with experience in crypto space  
+☐ Registering a for-profit entity
+☐ Next major update of the ROD Core wallet  
+☐ Alpha version of Democrit - Trustless Marketplace Framework  
+☐ Alpha version of SpaceXpanse DappEngine  
+☐ Alpha version of SpaceXpanse: Battleships  
+☐ SpaceXpanse Startup Hub - the startup ecosystem around our platform   
 
-## 2025 Q1    
-☐ Open Beta version of SpaceXpanse: Wanderers  
+### 2025 Q1    
+☐ Beta version of SpaceXpanse Decentralized DNS /dDNS/ feature  
+☐ Beta version of Democrit - Trustless Marketplace Framework  
+☐ Beta version of SpaceXpanse DappEngine  
 
-## 2025 Q2    
-☐ Alpha Version of Decentralized Autonomous Organisation /SpeXDAO/  
+### 2025 Q2    
+☐ Beta version of SpaceXpanse: Battleships
+☐ Closed alpha version of SpaceXpanse: Wanderers    
 
-## 2025 Q3    
-☐ Beta version of Decentralized Social Network /Metalog/  
+### 2025 Q3    
+☐ SpaceXpanse ROD halving around 4th of July 2025  
+☐ Beta version of SpaceXpanse Digital Identification /SpeXID/  
+☐ Beta version of ROD-to-Nostr framework  
+☐ Beta version of Metalog - Decentralized Social Network  
+☐ Beta version of the SpaceXpanse Metaverse Simulator  
+☐ Beta version of SpaceXpanse: Metaverse  
 
-## 2025 Q4    
-☐ Beta version of Decentralized Autonomous Organisation /SpeXDAO/  
+### 2025 Q4    
+☐ Open beta version of SpaceXpanse: Wanderers
+☐ Integration tools for interconnection with other blockchains /TBD/  
+☐ Fourth major marketing campaign to promote our platform in full  
 
-## 2026    
-☐ Other /TBA/
+### 2026    
+☐ Source code audit by a third-party entity
 
 ----
 *And if you want to see more thorough description and and exact timetable of the tasks in question, visit [roadmap planning and progress](https://github.com/orgs/SpaceXpanse/projects/28)*.  
