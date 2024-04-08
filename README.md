@@ -70,7 +70,7 @@ Overall, developing these projects on quarterly iterations for a four-year perio
 ☐ Initial version of ROD API server  
 ☐ ROD mobile wallet  
 ☐ ROD RPC explorer - new version with API  
-☐ Expand ROD support to other miners and fix issues with current ones
+☐ Expand ROD support to other miners and fix issues with current ones  
 ☐ New version of D.A.R.M.A. - AI chatbot to help users delve into our platform  
 ☐ Prepare all nesessary documents to pitch the potential investors  
 ☐ Alpha version of SpaceXpanse Digital Identification /SpeXID/  
