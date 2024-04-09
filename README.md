@@ -58,7 +58,7 @@ Overall, developing these projects on quarterly iterations for a four-year perio
     
 ## Stage 2
 ### 2023 Q4
-☑ Registering a non-profit entity  
+☑ Registering a non-profit entity to manage the platform  
 ☑ Second major marketing campaign to promote the projects further  
     
 ### 2024 Q1    
@@ -90,7 +90,7 @@ Overall, developing these projects on quarterly iterations for a four-year perio
 ### 2024 Q4  
 ☐ Third major marketing campaign to promote the projects further  
 ☐ Consulting with an attorney office with experience in crypto space  
-☐ Registering a for-profit entity  
+☐ Registering a for-profit entity to manage Wanderers and other games  
 ☐ New major update of the ROD Core wallet  
 ☐ New release of SpaceXpanse Programming Library /libspex/  
 ☐ Alpha version of Democrit - Trustless Marketplace Framework  
