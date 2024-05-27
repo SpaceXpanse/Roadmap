@@ -72,7 +72,7 @@ Overall, developing these projects on quarterly iterations for a four-year perio
 ☐ ROD RPC explorer - new version with API  
 ☐ Expand ROD support for miners and pools   
 ☐ New version of D.A.R.M.A. - AI chatbot to help users delve into our platform  
-☐ Prepare all nesessary documents to pitch the potential investors  
+☐ Prepare all necessary documents to pitch the potential investors  
 ☐ Alpha version of SpaceXpanse Digital Identification /SpeXID/  
 ☐ New minor version of SpaceXpanse Metaverse Simulator  
 ☐ Alpha version of SpaceXpanse: Metaverse  
