@@ -86,7 +86,9 @@ Overall, developing these projects on quarterly iterations for a four-year perio
 - **Pre-Launch Preparations**  
   - Ramp up promotional activities and prepare a detailed launch campaign.  
   - Coordinate final checks across legal, technical, and operational domains to ensure a smooth public launch.
-  
+
+### 2026    
+- Further development
 ---
 
 ## Summary Timeline Overview
