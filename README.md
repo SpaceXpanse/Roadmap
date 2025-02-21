@@ -33,7 +33,8 @@ Overall, developing these projects on quarterly iterations for a four-year perio
 
 ## Stage 3 Roadmap for SpaceXpanse Multiverse
 
-### **Q1 2025 – Reassessment and Backlog Integration**
+### **Q1 2025**  
+### **Reassessment and Backlog Integration**
 - **Research & Analysis**  
   - Initiate a comprehensive review of last year’s roadmap performance.  
   - Gather feedback to pinpoint the primary causes of delays.  
@@ -47,7 +48,8 @@ Overall, developing these projects on quarterly iterations for a four-year perio
 
 ---
 
-### **Q2 2025 – Legal and Structural Strengthening**
+### **Q2 2025**  
+### **Legal and Structural Strengthening**
 - **Marketing Relaunch**  
   - Begin a refreshed marketing campaign that highlights our new legal and operational milestones, focusing on rebuilding trust and excitement within the community.
 - **Legal Entity Formation**  
@@ -59,7 +61,8 @@ Overall, developing these projects on quarterly iterations for a four-year perio
 
 ---
 
-### **Q3 2025 – Accelerated Feature Integration and Community Engagement**
+### **Q3 2025**  
+### ***Accelerated Feature Integration and Community Engagement**
 - **Feature Implementation**  
   - Accelerate the development of new features and complete remaining ones.  
   - Enhance our developer tools and ensure seamless integration across all components.
@@ -72,7 +75,8 @@ Overall, developing these projects on quarterly iterations for a four-year perio
 
 ---
 
-### **Q4 2025 – Security, Prototype Finalization, and Launch Preparations**
+### **Q4 2025**  
+### **Security, Prototype Finalization, and Launch Preparations**
 - **Partnerships**
   - Establish partnerships with other metaverse projects and blockchain platforms to ensure platform's interoperability.
 - **Security Audit**  
