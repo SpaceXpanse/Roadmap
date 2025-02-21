@@ -62,7 +62,7 @@ Overall, developing these projects on quarterly iterations for a four-year perio
 ---
 
 ### **Q3 2025**  
-### ***Accelerated Feature Integration and Community Engagement**
+### **Accelerated Feature Integration and Community Engagement**
 - **Feature Implementation**  
   - Accelerate the development of new features and complete remaining ones.  
   - Enhance our developer tools and ensure seamless integration across all components.
